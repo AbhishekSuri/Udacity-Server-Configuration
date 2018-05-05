@@ -12,6 +12,11 @@ ssh port : `2200`
 5) flask
 6) other dependencies of flask project
 
+###External Resources Used:
+1. StackOverflow
+2. DigitalOcean Tutorials
+3. SQLAlchemy Documentation
+
 
 ### Configuration steps
 ### Create an instance with Amazon Lightsail
